@@ -1,0 +1,14 @@
+C:\Users\yoshi\source\repos\Target1_soma\bin\Debug\net6.0\Target1_soma.exe
+C:\Users\yoshi\source\repos\Target1_soma\bin\Debug\net6.0\Target1_soma.deps.json
+C:\Users\yoshi\source\repos\Target1_soma\bin\Debug\net6.0\Target1_soma.runtimeconfig.json
+C:\Users\yoshi\source\repos\Target1_soma\bin\Debug\net6.0\Target1_soma.dll
+C:\Users\yoshi\source\repos\Target1_soma\bin\Debug\net6.0\Target1_soma.pdb
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\Target1_soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\Target1_soma.AssemblyInfoInputs.cache
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\Target1_soma.AssemblyInfo.cs
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\Target1_soma.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\Target1_soma.dll
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\refint\Target1_soma.dll
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\Target1_soma.pdb
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\Target1_soma.genruntimeconfig.cache
+C:\Users\yoshi\source\repos\Target1_soma\obj\Debug\net6.0\ref\Target1_soma.dll
