@@ -1,0 +1,17 @@
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\bin\Debug\net6.0\Target3_faturamentodiario.exe
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\bin\Debug\net6.0\Target3_faturamentodiario.deps.json
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\bin\Debug\net6.0\Target3_faturamentodiario.runtimeconfig.json
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\bin\Debug\net6.0\Target3_faturamentodiario.dll
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\bin\Debug\net6.0\Target3_faturamentodiario.pdb
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_faturamentodiario.csproj.AssemblyReference.cache
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_faturamentodiario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_faturamentodiario.AssemblyInfoInputs.cache
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_faturamentodiario.AssemblyInfo.cs
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_faturamentodiario.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_.20F09275.Up2Date
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_faturamentodiario.dll
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\refint\Target3_faturamentodiario.dll
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_faturamentodiario.pdb
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\Target3_faturamentodiario.genruntimeconfig.cache
+C:\Users\yoshi\source\repos\Target3_faturamentodiario\obj\Debug\net6.0\ref\Target3_faturamentodiario.dll

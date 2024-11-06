@@ -1,0 +1,14 @@
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\Target5_reversestring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\Target5_reversestring.AssemblyInfoInputs.cache
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\Target5_reversestring.AssemblyInfo.cs
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\Target5_reversestring.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\Target5_reversestring\bin\Debug\net6.0\Target5_reversestring.exe
+C:\Users\yoshi\source\repos\Target5_reversestring\bin\Debug\net6.0\Target5_reversestring.deps.json
+C:\Users\yoshi\source\repos\Target5_reversestring\bin\Debug\net6.0\Target5_reversestring.runtimeconfig.json
+C:\Users\yoshi\source\repos\Target5_reversestring\bin\Debug\net6.0\Target5_reversestring.dll
+C:\Users\yoshi\source\repos\Target5_reversestring\bin\Debug\net6.0\Target5_reversestring.pdb
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\Target5_reversestring.dll
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\refint\Target5_reversestring.dll
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\Target5_reversestring.pdb
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\Target5_reversestring.genruntimeconfig.cache
+C:\Users\yoshi\source\repos\Target5_reversestring\obj\Debug\net6.0\ref\Target5_reversestring.dll

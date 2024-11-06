@@ -1,0 +1,14 @@
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\bin\Debug\net6.0\Target4_faturamentomensal.exe
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\bin\Debug\net6.0\Target4_faturamentomensal.deps.json
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\bin\Debug\net6.0\Target4_faturamentomensal.runtimeconfig.json
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\bin\Debug\net6.0\Target4_faturamentomensal.dll
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\bin\Debug\net6.0\Target4_faturamentomensal.pdb
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\Target4_faturamentomensal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\Target4_faturamentomensal.AssemblyInfoInputs.cache
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\Target4_faturamentomensal.AssemblyInfo.cs
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\Target4_faturamentomensal.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\Target4_faturamentomensal.dll
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\refint\Target4_faturamentomensal.dll
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\Target4_faturamentomensal.pdb
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\Target4_faturamentomensal.genruntimeconfig.cache
+C:\Users\yoshi\source\repos\Target4_faturamentomensal\obj\Debug\net6.0\ref\Target4_faturamentomensal.dll
